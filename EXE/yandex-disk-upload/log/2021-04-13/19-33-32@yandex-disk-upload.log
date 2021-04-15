@@ -1,0 +1,12 @@
+2021/04/13 19:33:32.532000 application startup [yandex-disk-upload]
+2021/04/13 19:33:32.532000 conf: &{LogDir:c:/miller.tmp/YANDEX~1/log AppID:5b0a6cca18ed41a2b2bccf8e08cf7e7b Token: LocalDir:c:/miller.tmp/YANDEX~1/upload RemoteDir:/upload LimitDriveUsage:90 Imitation:false}
+2021/04/13 19:33:32.532000 Go to the following link in your browser for get token:
+https://oauth.yandex.ru/authorize?response_type=token&client_id=5b0a6cca18ed41a2b2bccf8e08cf7e7b
+put retrieved Token to config and restart app
+2021/04/13 19:33:32.532000 mem usage: Alloc[327.56 KB] Sys[7.77 MB]
+2021/04/13 19:35:32.533000 mem usage: Alloc[328.49 KB] Sys[7.77 MB]
+2021/04/13 19:37:32.534000 mem usage: Alloc[329.01 KB] Sys[7.77 MB]
+2021/04/13 19:39:32.535000 mem usage: Alloc[329.62 KB] Sys[7.77 MB]
+2021/04/13 19:41:32.535000 mem usage: Alloc[330.45 KB] Sys[7.77 MB]
+2021/04/13 19:43:32.535000 mem usage: Alloc[330.97 KB] Sys[7.77 MB]
+2021/04/13 19:45:32.536000 mem usage: Alloc[331.48 KB] Sys[7.77 MB]

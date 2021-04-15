@@ -1,0 +1,18 @@
+2021/04/13 19:47:34.166000 application startup [yandex-disk-upload]
+2021/04/13 19:47:34.166000 conf: &{LogDir:c:/miller.tmp/YANDEX~1/log AppID:5b0a6cca18ed41a2b2bccf8e08cf7e7b Token:AQAAAABUAp-BAAcO5hmPfUX-6079kJAs9B6w05Y LocalDir:c:/miller.tmp/YANDEX~1/upload RemoteDir:/upload LimitDriveUsage:90 Imitation:false}
+2021/04/13 19:47:34.167000 check drive...
+2021/04/13 19:47:34.167000 mem usage: Alloc[325.30 KB] Sys[8.02 MB]
+2021/04/13 19:47:34.323000 drive usage: 38.93 MB / 10.00 GB [0 %]
+2021/04/13 19:47:34.812000 wait file...
+2021/04/13 19:47:54.813000 waited: 20s
+2021/04/13 19:47:54.814000 check drive...
+2021/04/13 19:47:55.227000 drive usage: 38.93 MB / 10.00 GB [0 %]
+2021/04/13 19:47:55.228000 upload: Магистерская диссертация.pdf [2.85 MB]
+2021/04/13 19:47:58.154000 upload completed
+2021/04/13 19:47:58.157000 wait file...
+2021/04/13 19:49:34.167000 mem usage: Alloc[1.20 MB] Sys[8.52 MB]
+2021/04/13 19:51:34.167000 mem usage: Alloc[1.24 MB] Sys[8.52 MB]
+2021/04/13 19:53:34.168000 mem usage: Alloc[1.28 MB] Sys[8.52 MB]
+2021/04/13 19:54:50.235000 got signal: interrupt (2)
+2021/04/13 19:54:50.236000 uptime: 7m16s
+2021/04/13 19:54:50.236000 application shutdown
